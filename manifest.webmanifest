@@ -1,0 +1,15 @@
+{
+  "name": "zhis的工作台",
+  "short_name": "zhis工作台",
+  "description": "福建公考备考 + 健身治愈系个人工作台",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF7F0",
+  "theme_color": "#9DBF8E",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "icon-180.png", "sizes": "any", "type": "image/png", "purpose": "maskable" }
+  ]
+}
